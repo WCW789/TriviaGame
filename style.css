@@ -1,0 +1,22 @@
+body {
+    background-color: tan;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    color: pink;
+    text-align: center;
+    font-size: 25px;
+}
+
+#here, #triviaGame, #testing, #theGame, #forAnswers {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#buttonReset {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+}
